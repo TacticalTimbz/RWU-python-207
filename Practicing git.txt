@@ -1,1 +1,1 @@
-Orlando is practicing git
+Orlando is practicing git with students at RWU. We're working on pushing changes and making branches.
